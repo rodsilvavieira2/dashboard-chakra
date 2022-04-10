@@ -1,5 +1,5 @@
 import axios from 'axios'
 
 export const api = axios.create({
-  baseURL: 'https://secret-peak-02363.herokuapp.com/'
+  baseURL: 'https://infinite-oasis-50913.herokuapp.com/'
 })
