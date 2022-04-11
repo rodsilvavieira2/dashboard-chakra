@@ -41,7 +41,6 @@ export default function UserList() {
       ['user', userId],
       async () => {
         const response = await api.get(`users/${userId}`)
-
         return response.data
       },
       {
