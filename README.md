@@ -4,6 +4,9 @@ An Dashboard built with nextjs, chakra-ui fully responsive and react-query for m
 
 ---
 
+## Deploy
+https://roaring-wisp-9aa377.netlify.app
+
 ## Preview
 
 - Dashboard
